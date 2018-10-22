@@ -9,9 +9,10 @@
 #define NATIONSTRUCT_H
 struct Nation{
     int name;
-    int redarmy = 0;
     int bluarmy = 0;
+    int redarmy = 0;    
     int whtarmy = 0;
+    bool hq = false;
     
 };
 

@@ -11,6 +11,7 @@
 struct Player{
     std :: string name;
     Card * Hand;
+    int armies = 25;
 };
 
 #endif /* PLAYERSTRUCT_H */
