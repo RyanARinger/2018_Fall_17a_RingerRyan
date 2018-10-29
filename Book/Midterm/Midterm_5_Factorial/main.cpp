@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
- * Author: Dr. Mark E. Lehr
- * Created on July 19, 2016, 9:07 AM
- * Purpose:  Hello World Template
+ * Author: Ryan Ringer
+ * Created on October 27, 2018 9:40AM
+ * Purpose:  Factorial output
  */
 
 //System Libraries Here
@@ -20,22 +20,18 @@ using namespace std;
 //Program Execution Begins Here
 int main(int argc, char** argv) {
     //Declare all Variables Here
-    const int FACT = 30;
     
-    unsigned int a = FACT;
-    unsigned int str = FACT -1;
-    
-    //Input or initialize values Here
-    for(int i = 0; i<FACT; i++){
-        if(str>0){
-            a *= str;
-            str--;
-        }
-    }
     //Process/Calculations Here
 
     //Output Located Here
-    cout << a;
+    cout << "Unsigned and Signed char: 5!" << endl;
+    cout << "Signed Short: 7!" << endl;
+    cout << "Unsigned Short: 8!" << endl;
+    cout << "Unsigned and Signed int: 12!" << endl;
+    cout << "float: 10!" << endl;
+    cout << "Double: 10!" << endl;
+    cout << "Unsigned long: 13!" << endl;
+    cout << "Signed char: 12!" << endl;
     //Exit
     return 0;
 }

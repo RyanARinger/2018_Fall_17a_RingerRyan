@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=midterm_encrypt_decrypt
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/midterm_encrypt_decrypt
+CND_ARTIFACT_NAME_Debug=midterm_4_encrypt_decrypt
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/midterm_4_encrypt_decrypt
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=midtermencryptdecrypt.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/midtermencryptdecrypt.tar
+CND_PACKAGE_NAME_Debug=midterm4encryptdecrypt.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/midterm4encryptdecrypt.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=midterm_encrypt_decrypt
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/midterm_encrypt_decrypt
+CND_ARTIFACT_NAME_Release=midterm_4_encrypt_decrypt
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/midterm_4_encrypt_decrypt
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=midtermencryptdecrypt.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/midtermencryptdecrypt.tar
+CND_PACKAGE_NAME_Release=midterm4encryptdecrypt.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/midterm4encryptdecrypt.tar
 #
 # include compiler specific variables
 #

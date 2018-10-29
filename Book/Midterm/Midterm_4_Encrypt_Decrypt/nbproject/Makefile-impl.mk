@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Midterm_Encrypt_Decrypt
+PROJECTNAME=Midterm_4_Encrypt_Decrypt
 
 # Active Configuration
 DEFAULTCONF=Debug
