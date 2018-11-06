@@ -7,11 +7,6 @@
 #include <iostream>
 using namespace std;
 #include "PersonClass.h"
-    
-    std::string name;
-    std::string addy;
-    int age;
-    std::string phone;
 
     void Person::prnInfo(){
         std::string name = Person::getName();

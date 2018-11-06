@@ -9,9 +9,6 @@
 using namespace std;
 
 #include "DateClass.h"
-    int month;
-    int day;
-    int year;
 
 void Date::prnDate(){
     const int nMonth = 12;
